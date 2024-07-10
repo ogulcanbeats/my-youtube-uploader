@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="urFhATqdREHP4lMrXhLqOZMuvRB-IKVn56TbEfVocgg" />
 # My YouTube Uploader
 
 This project is a YouTube uploader tool that allows you to upload videos to YouTube using Python.
